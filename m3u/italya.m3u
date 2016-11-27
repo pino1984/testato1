@@ -1,0 +1,101 @@
+﻿#EXTM3U
+#EXTINF:-1,***HasBahCa IPTV***ITALYA-ITALIEN-ITALIA***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,Alto Adige TV
+http://77.72.196.214:8554/live/mp4:AltoAdigeTV/hasbahca.m3u8
+#EXTINF:-1,BOING LONG START TIME
+http://81.196.63.226:1935/live/rkst5_2.stream/HasBahCa.m3u8
+#EXTINF:-1,Canale 5 LONG START TIME
+http://81.196.63.226:1935/live/rkst3_2.stream/HasBahCa.m3u8
+#EXTINF:-1,Canale_7
+http://fms.shared.streamshow.it/canale7/canale7/hasbahca.m3u8
+#EXTINF:-1,Iper tv mmsh
+mmsh://mediatv2.topix.it/24Ipertv66
+#EXTINF:-1,IRIS LONG START TIME
+http://81.196.63.226:1935/live/rkst5_1.stream/HasBahCa.m3u8
+#EXTINF:-1,ITALIA 1 LONG START TIME
+http://81.196.63.226:1935/live/rkst3_1.stream/HasBahCa.m3u8
+#EXTINF:-1,La 6 TV
+rtmp://la6.stream.internetone.it/streaming/la6.stream
+#EXTINF:-1,LA 7 LONG START TIME
+http://81.196.63.226:1935/live/rkst3_4.stream/HasBahCa.m3u8
+#EXTINF:-1,LA5 LONG START TIME
+http://81.196.63.226:1935/live/rkst2_4.stream/HasBahCa.m3u8
+#EXTINF:-1,MARCOPOLO LONG START TIME
+http://81.196.63.226:1935/live/rkst3_5.stream/HasBahCa.m3u8
+#EXTINF:-1,MEDIASET EXTRA LONG START TIME
+http://81.196.63.226:1935/live/rkst5_3.stream/HasBahCa.m3u8
+#EXTINF:-1,Mediaset Italia 2 LONG START TIME
+http://81.196.63.226:1935/live/rkst5_4.stream/HasBahCa.m3u8
+#EXTINF:-1,Onda TV
+rtmp://$OPT:rtmp-raw=rtmp://live.streamcaster.net/ondatv_live playpath=ondatv swfUrl=http://www.flashwebtown.com/mediaplayer/mediaplayer.swf pageUrl=http://www.ondatv.it/ live=1
+#EXTINF:-1,OTTO FM TV
+rtmp://8fm.stream.internetone.it/streaming/8fm.stream
+#EXTINF:-1,Quartarete
+http://wowza1.top-ix.org/quartaretetv/quartareteweb/hasbahca.m3u8
+#EXTINF:-1,Quartarete
+rtmp://$OPT:rtmp-raw=rtmp://wowza1.top-ix.org/quartaretetv playpath=quartareteweb swfUrl=http://lihattv.us/scripts/videogallery.swf live=1 pageUrl=http://lihattv.us/?ch=it
+#EXTINF:-1,Quartarete TV
+http://194.116.73.146/quartaretetv/quartareteweb/hasbahca.m3u8
+#EXTINF:-1,Radio Italia
+rtmp://cwedge.cdcache.net/cwedge/rilive
+#EXTINF:-1,Rai 1 LONG START TIME
+http://81.196.63.226:1935/live/rkst4_1.stream/HasBahCa.m3u8
+#EXTINF:-1,RAI 2 LONG START TIME
+http://81.196.63.226:1935/live/rkst4_2.stream/HasBahCa.m3u8
+#EXTINF:-1,Rai 3 LONG START TIME
+http://81.196.63.226:1935/live/rkst4_3.stream/HasBahCa.m3u8
+#EXTINF:-1,Rai 4 LONG START TIME
+http://81.196.63.226:1935/live/rkst4_4.stream/HasBahCa.m3u8
+#EXTINF:-1,Rai Gulp TV mmsh
+mmsh://212.162.68.163/Rai_gulp
+#EXTINF:-1,Rai Premium mmsh
+mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf
+#EXTINF:-1,Rai Scuola mmsh
+mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.asf
+#EXTINF:-1,Rai Storia mmsh
+mmsh://212.162.68.163/rai_storia?MSWMExt.asf
+#EXTINF:-1,Rai Yoyo mms
+mmsh://212.162.68.162/rai_yoyo
+#EXTINF:-1,RETE 4 LONG START TIME
+http://81.196.63.226:1935/live/rkst3_3.stream/HasBahCa.m3u8
+#EXTINF:-1,RETE55
+rtmp://$OPT:rtmp-raw=rtmp://rete55.stream.internetone.it/streaming playpath=rete55.stream swfUrl=http://webtv.rete55news.tv/swf/player-5_8.swf pageUrl=http://webtv.rete55news.tv/
+#EXTINF:-1,RETESOLE Roma mms
+mms://streaming1.bsnewline.com/retesoleroma
+#EXTINF:-1,Rock One mms
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1,Roma uno
+http://188.40.2.148:1935/romauno/live.sdp/hasbahca.m3u8
+#EXTINF:-1,Sardegna_1
+rtmp://$OPT:rtmp-raw=rtmp://94.32.101.17/sardegna1 playpath=live1.stream swfUrl=http://www.sardegna1.tv/flowplayer-3.2.5.swf pageUrl=http://www.sardegna1.tv/page.php?id_page=146 live=1
+#EXTINF:-1,Super TV
+rtmp://$OPT:rtmp-raw=rtmp://fms.shared.streamshow.it:1935/supertv/supertv
+#EXTINF:-1,Tele Arena
+rtmp://$OPT:rtmp-raw=rtmp://wma07.fluidstream.net/TeleArena playpath=livestream swfUrl=http://media.larena.it/media/3rdparty/jwplayer/mediaplayer-5.10-licensed/player.swf pageUrl=http://www.larena.it/publisher/645_live/section/ live=1
+#EXTINF:-1,Tele Diogene
+rtmp://$OPT:rtmp-raw=rtmp://wms.shared.streamshow.it:1935/telediogene/telediogene
+#EXTINF:-1,Tele Luna
+rtmp://$OPT:rtmp-raw=rtmp://vs2.streamcaster.net:1935/test_live playpath=teleluna swfUrl=http://www.lunaset.it/scripts/FlowPlayerNet/flowplayer.commercial-3.2.15.swf pageUrl=http://www.lunaset.it/ live=1
+#EXTINF:-1,Tele Pavia
+rtmp://$OPT:rtmp-raw=rtmp://fms.shared.streamshow.it:1935/telepavia/ playpath=telepavia swfUrl=http://lihattv.us/scripts/videogallery.swf pageUrl=http://lihattv.us/?ch=it
+#EXTINF:-1,TeleBoario
+rtmp://91.121.222.160/teleboariotb/teleboario.sdp
+#EXTINF:-1,Telecitta'
+rtmp://$OPT:rtmp-raw=rtmp://stream.telepadova.com/live/ playpath=tv1 swfUrl=http://www.telecitta.tv/swf/video.swf pageUrl=http://www.telecitta.tv/diretta-web-telecitta live=1
+#EXTINF:-1,Telemilano
+http://91.121.222.160:1935/piublu/piublu.sdp/hasbahca.m3u8
+#EXTINF:-1,TelePavia
+http://fms.shared.streamshow.it:1935/telepavia/telepavia/hasbahca.m3u8
+#EXTINF:-1,TGCOM24 LONG START TIME
+http://81.196.63.226:1935/live/rkst2_5.stream/HasBahCa.m3u8
+#EXTINF:-1,Top Crime LONG START TIME
+http://81.196.63.226:1935/live/rkst5_5.stream/HasBahCa.m3u8
+#EXTINF:-1,Trentino TV
+rtmp://$OPT:rtmp-raw=rtmp://77.72.196.214:8554/live playpath=TrentinoTV swfUrl=http://www.trentinotv.it/flowplayer/flowplayer-3.2.7.swf pageUrl=http://www.trentinotv.it/ live=1
+#EXTINF:-1,TRM TV
+http://flash.streamingmedia.it:1935/TRM/livestream/hasbahca.m3u8
+#EXTINF:-1,TV UNO
+http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
+#EXTINF:-1,Video Brescia
+rtmp://$OPT:rtmp-raw=rtmp://wms.shared.streamshow.it/videobrescia/videobrescia
